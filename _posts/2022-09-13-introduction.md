@@ -26,3 +26,7 @@ We are a tutoring service that works with you to get your grades up!
 ## How to sign up
 
 Fill out our google form [here](https://forms.gle/Fr8Pp67LB8ssNm699) and wait for an email.
+
+## Promotions/Discounts
+
+Every so often we do discounts! For example, first time customers get their first session _**FREE**_! We will also run promotions every so often to promote or celebrate something.
