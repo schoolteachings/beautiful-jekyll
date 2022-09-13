@@ -15,10 +15,10 @@ We are a tutoring service that works with you to get your grades up!
 
 | Type | Price | Session Length |
 | :------ |:--- | :--- |
-| Math | $20 | 30 Minutes |
+| Math | $15 | 30 Minutes |
 | Science | $15 | 30 Minutes |
 | History | $15 | 30 Minutes |
-| Homework Help | $20 | 10 Minutes |
+| Homework Help | $10 | 10 Minutes |
 
 {: .box-note}
 **Note:** We require payment before the session
