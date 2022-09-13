@@ -20,9 +20,9 @@ We are a tutoring service that works with you to get your grades up!
 | History | $15 | 30 Minutes |
 | Homework Help | $20 | 10 Minutes |
 
+{: .box-note}
+**Note:** We require payment before the session
+
 ## How to sign up
 
 Fill out our google form [here](https://forms.gle/Fr8Pp67LB8ssNm699) and wait for an email.
-
-{: .box-note}
-**Note:** We require payment before the session
