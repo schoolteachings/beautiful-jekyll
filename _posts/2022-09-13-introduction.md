@@ -2,7 +2,7 @@
 layout: post
 title: Introduction
 subtitle: Find out more about School Teachings, and what you can expect
-tags: [math, science, history, global]
+tags: [global]
 ---
 
 # Welcome to School Teachings!
