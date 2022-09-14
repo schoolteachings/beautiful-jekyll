@@ -6,6 +6,8 @@ tags: [math, worksheet]
 ---
 # Pythagorean Theorem Review
 
+If you have any questions, or are confused about something, ask a tutor about it. We are more than happy to help you understand :)
+
 ## Problems
 
 **Problem 1**: Solve for x
